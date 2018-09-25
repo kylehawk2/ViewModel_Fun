@@ -12,7 +12,7 @@ namespace ViewModelFun.Controllers
     {
         public IActionResult Index()
         {
-            ViewData["Title"] = "This is my message";
+            ViewData["Title"] = "This is my message...";
             Message msg = new Message()
             {
                 content = "This message is the default content that has been provided for the root route"
@@ -25,10 +25,30 @@ namespace ViewModelFun.Controllers
             ViewData["Title"] = "Here are some numbers!";
             Numbers num = new Numbers()
             {
-                numList = new List<int> {1,2,3,4,5,6,7,8,9,0}
+                numList = new List<int> {1,2,3,10,42,5}
             };
             return View("Numbers", num);
 
+        }
+        [Route("users")]
+        public IActionResult Users()
+        {
+            ViewData["Title"] = "Here are some Users!";
+            Users users = new Users()
+            {
+                userList = new List<string> {"Kyle Hawkins", "Danica Tomber", "Ragnar Lofbrook", "Julius Ceasar", "Alexander of Macedonia"}
+            };
+            return View("Users", users);
+        }
+        [Route("user")]
+        public IActionResult OneUser()
+        {
+            ViewData["Title"] = "Here is a User!";
+            User user = new User()
+            {
+                user = "Kyle Hawkins"
+            };
+            return View("OneUser", user);
         }
     }
 }
