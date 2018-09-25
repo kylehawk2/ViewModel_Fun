@@ -1,0 +1,11 @@
+C:\Users\Kyle\Documents\C#-.NET\ViewModelFun\bin\Debug\netcoreapp2.0\ViewModelFun.deps.json
+C:\Users\Kyle\Documents\C#-.NET\ViewModelFun\bin\Debug\netcoreapp2.0\ViewModelFun.runtimeconfig.json
+C:\Users\Kyle\Documents\C#-.NET\ViewModelFun\bin\Debug\netcoreapp2.0\ViewModelFun.runtimeconfig.dev.json
+C:\Users\Kyle\Documents\C#-.NET\ViewModelFun\bin\Debug\netcoreapp2.0\ViewModelFun.dll
+C:\Users\Kyle\Documents\C#-.NET\ViewModelFun\bin\Debug\netcoreapp2.0\ViewModelFun.pdb
+C:\Users\Kyle\Documents\C#-.NET\ViewModelFun\obj\Debug\netcoreapp2.0\ViewModelFun.csprojResolveAssemblyReference.cache
+C:\Users\Kyle\Documents\C#-.NET\ViewModelFun\obj\Debug\netcoreapp2.0\ViewModelFun.csproj.CoreCompileInputs.cache
+C:\Users\Kyle\Documents\C#-.NET\ViewModelFun\obj\Debug\netcoreapp2.0\ViewModelFun.AssemblyInfoInputs.cache
+C:\Users\Kyle\Documents\C#-.NET\ViewModelFun\obj\Debug\netcoreapp2.0\ViewModelFun.AssemblyInfo.cs
+C:\Users\Kyle\Documents\C#-.NET\ViewModelFun\obj\Debug\netcoreapp2.0\ViewModelFun.dll
+C:\Users\Kyle\Documents\C#-.NET\ViewModelFun\obj\Debug\netcoreapp2.0\ViewModelFun.pdb
